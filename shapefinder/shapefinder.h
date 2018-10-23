@@ -5,5 +5,5 @@
 
 
 // TODO: Reference additional headers your program requires here.
-void load_arguements(int argc, char* argv[]);
+void load_arguments(int argc, char* argv[]);
 void detect_shape();
