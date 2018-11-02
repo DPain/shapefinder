@@ -13,8 +13,8 @@
 #include <stdlib.h>
 
 using namespace std;
+using namespace cv;
 
-// TODO: Reference additional headers your program requires here.
 void load_arguments(int argc, char* argv[]);
-void detect_shape();
+bool detect_shape();
 short* get_rgb(string hex_string);
